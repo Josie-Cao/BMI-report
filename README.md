@@ -1,6 +1,6 @@
 # Decoding of Monkey Arm Movements: A Study Using kNN and Kalman Filters
 This study investigates the decoding of a monkey’s arm
-movement trajectories using neural spike data. We evaluated four decoding models: Linear Discriminant Analysis
+movement trajectories using neural spike data. We evaluated four decoding models: Linear Discriminant Analysis
 (LDA), k-nearest Neighbour (kNN), Linear Regression
 (LR), and Kalman Filter, to identify the most effective
 method. The evaluation involved a detailed performance
